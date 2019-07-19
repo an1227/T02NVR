@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="446355e9-3cb0-4dcc-a01c-8e765d8485aa" name="Default Changelist" comment="" />
+    <list default="true" id="446355e9-3cb0-4dcc-a01c-8e765d8485aa" name="Default Changelist" comment="增加智能">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/loginElement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="25" column="72" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
+            <state relative-caret-position="621">
+              <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
               <folding>
                 <element signature="e#123#150#0" expanded="true" />
               </folding>
@@ -66,7 +69,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://D:/Python3.7/Lib/site-packages/requests/auth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-944">
+            <state relative-caret-position="-540">
               <caret line="68" column="18" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="18" />
             </state>
           </provider>
@@ -104,6 +107,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -175,6 +181,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -322,7 +329,16 @@
       <workItem from="1562749462722" duration="8000" />
       <workItem from="1562846182088" duration="21863000" />
       <workItem from="1563161274024" duration="7079000" />
+      <workItem from="1563537025270" duration="735000" />
     </task>
+    <task id="LOCAL-00001" summary="增加智能">
+      <created>1563537052322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563537052322</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -358,13 +374,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46348000" />
+    <option name="totallyTimeSpent" value="47083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27760968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -390,18 +405,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加智能" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加智能" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://D:/Python3/Lib/site-packages/openpyxl/worksheet/worksheet.py" />
-    <entry file="file://$PROJECT_DIR$/../T02NVR1/utils/allTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="37" selection-end-column="9" />
-          <folding>
-            <element signature="e#93#102#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../T02NVR1/utils/allTest.py" />
     <entry file="file://$PROJECT_DIR$/base/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -430,6 +440,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/zzz.py" />
+    <entry file="file://$PROJECT_DIR$/koala-lite.py" />
+    <entry file="file://$PROJECT_DIR$/aaa.py" />
     <entry file="file://$PROJECT_DIR$/base/init.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -445,8 +458,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page/loginElement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="25" column="72" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
+        <state relative-caret-position="621">
+          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
           <folding>
             <element signature="e#123#150#0" expanded="true" />
           </folding>
@@ -483,33 +496,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zzz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="34" column="15" lean-forward="true" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
-          <folding>
-            <element signature="e#117#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koala-lite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1395">
-          <caret line="57" column="44" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aaa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="64" column="19" lean-forward="true" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Python3.7/Lib/site-packages/requests/auth.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-944">
+        <state relative-caret-position="-540">
           <caret line="68" column="18" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="18" />
         </state>
       </provider>
